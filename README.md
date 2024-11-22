@@ -6,7 +6,7 @@ A sleek, modern, and universal currency converter app built with Expo and React 
 - [Getting Started](#-getting-started)
 - [Features](#-features)
 - [Dependencies](#-dependencies)
-- [License](#-license)
+
 
 ## 🚀 Getting Started
 
@@ -29,6 +29,10 @@ npx expo start
 ```
 
 Open the app on your device using the Expo Go app, or run it on an emulator.
+
+![Currency Converter App Mockup](./assets/images/WhatsApp%20Image%202024-11-22%20at%209.43.37%20PM.jpeg)
+
+
 
 ## ✨ Features
 
